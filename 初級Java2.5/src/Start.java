@@ -10,7 +10,7 @@ public class Start {
 		System.out.println(x * y);
 		
 
-		MyFrame frame3 = new TextTest();
+		MyFrame frame3 = new RectAndOval();
 		frame3.setLocation(350, 550);
 		
 
