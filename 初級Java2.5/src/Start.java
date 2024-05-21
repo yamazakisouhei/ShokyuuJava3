@@ -10,7 +10,7 @@ public class Start {
 		System.out.println(x * y);
 		
 
-		MyFrame frame3 = new ManyFigures();
+		MyFrame frame3 = new RectLoop();
 		frame3.setLocation(350, 550);
 		
 
