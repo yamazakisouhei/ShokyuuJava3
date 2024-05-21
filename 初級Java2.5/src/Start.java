@@ -10,11 +10,14 @@ public class Start {
 		System.out.println(x * y);
 		
 
-		MyFrame frame3 = new RectFrame();
+		MyFrame frame3 = new RectTest();
 		frame3.setLocation(350, 550);
-		MyFrame frame4 = new RectFrame();
-		frame4.setLocation(550, 350);
+		
+
+        
+            
+        }        
+    
 
 	}
 
-}
