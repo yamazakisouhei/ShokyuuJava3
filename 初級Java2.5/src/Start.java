@@ -5,8 +5,8 @@ public class Start {
 		// TODO 自動生成されたメソッド・スタブ
 	
         System.out.println("プログラムを実行します");
-		MyFrame frame3 = new Rectlf();
         MyFrame frame1 = new DisplayRectsSlow();
+        MyFrame frame2 = new Animation();
 	
 		
 
