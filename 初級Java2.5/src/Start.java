@@ -6,9 +6,9 @@ public class Start {
 	
         System.out.println("プログラムを実行します");
         MyFrame frame1 = new DisplayFace();
-        MyFrame frame2 = new DisplayFace();
+       
+         MyFrame frame3 = new DisplayFaceObject();
 	
-		
 
         
             
