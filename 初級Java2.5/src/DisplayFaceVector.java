@@ -8,8 +8,9 @@ public class DisplayFaceVector extends MyFrame{
 		for (int i = 0; i < 30; i++);{
 			clear();
 			for (int j = 0; j < faces.size(); j++);{
+				int j = 0;
 				faces.get(j).draw(this);
-				faces.get(j).remove();
+				faces.get(j).move();
 			}
 			sleep(0.1);
 		}
